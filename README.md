@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kirsten.
+- 👀 I’m interested in game dev, legos, and eating.
+- 🌱 I’m currently learning C++.
+- 📫 How to reach me https://discord.gg/GfSj9gAwb9
+- ⚡ Fun fact: I play the violin.
